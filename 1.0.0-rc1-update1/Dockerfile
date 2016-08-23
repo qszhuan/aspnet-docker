@@ -1,5 +1,5 @@
 FROM mono:4.0.1
-# test docker auto build.
+# test docker auto build....
 
 ENV DNX_VERSION 1.0.0-rc1-update1
 ENV DNX_USER_HOME /opt/dnx
